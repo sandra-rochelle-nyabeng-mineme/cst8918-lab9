@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "example" {
-  name     = "rg-hybrid-a09-demo"
+  name     = "bad"
   location = "Canada Central"
 }
